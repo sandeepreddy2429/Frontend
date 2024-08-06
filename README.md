@@ -14,3 +14,5 @@ PASSWORD :  123456
 try this for student login!
 
 try "invalid" for invalid user
+
+NOTE: after deployment add the file name "login.html" for output
